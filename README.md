@@ -1,2 +1,0 @@
-# devstagram
-Proyecto en Laravel
